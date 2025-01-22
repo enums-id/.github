@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/acab5f10-4204-4170-9102-a2bfdedd1d5a" width="50%"/>
+<img src="https://github.com/user-attachments/assets/55341496-4f71-4ce9-83c5-8c74bcf2beb9" width="50%"/>
 
 ## 🎯 Innovating Beyond Boundaries.
 Enums is a technology consulting & software engineering firm with over three years of expertise in spatial data analysis & management and software engineering. Leveraging innovative solutions and deep domain knowledge, we empower clients to boost efficiency, make smarter decisions, and reach their goals.
